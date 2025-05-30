@@ -1,4 +1,4 @@
-**DA`/50** is here to help maintain the AI productivity boost you get on day 1 throughout the lifetime of the project.
+**DA`/50** is here to help maintain the AI productivity boost you get on day 1 throughout the whole development lifetime; from initial idea to eventual legacy maintenance.
 
 It's future forward. There's lots here to explore with the biggest drops still to come.
 
