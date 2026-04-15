@@ -1,5 +1,5 @@
-Terminal-based cli AI tooling. 
+Terminal-based cli AI tooling for your workflows. 
 
-Tested, Production Ready. 
+Agents, cost management, security systems, transpilers, renderers, and orchestrators.
 
 Any model. Any provider. Open source. Always free.
