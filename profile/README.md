@@ -1,1 +1,5 @@
-Terminal-based cli. Tested, Production Ready AI Tools. Any model, any provider, always open-source. Totally free
+Terminal-based cli AI tooling. 
+
+Tested, Production Ready. 
+
+Any model. Any provider. Open source. Always free.
