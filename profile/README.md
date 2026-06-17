@@ -1,5 +1,1 @@
-Terminal-based cli AI tooling for your workflows. 
-
-Agents, cost management, security systems, transpilers, renderers, and orchestrators.
-
-Any model. Any provider. Open source. Always free.
+Better tooling for local, on-prem models and inference, done in the unix way.
