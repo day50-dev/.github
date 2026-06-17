@@ -1,1 +1,3 @@
-Better tooling for local, on-prem models and inference, done in the unix way.
+Better tooling for local, on-prem models and inference, done the Unix way.
+
+Make small models work better than big ones.
